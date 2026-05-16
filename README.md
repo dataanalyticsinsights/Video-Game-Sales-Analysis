@@ -14,11 +14,11 @@ The main goal of the analysis was to understand which game characteristics — s
 
 The project included:
 
-Data cleaning and preprocessing
-Exploratory data analysis (EDA)
-Correlation analysis
-Sales trend analysis
-Data visualization
+Data cleaning and preprocessing,
+Exploratory data analysis (EDA),
+Correlation analysis,
+Sales trend analysis,
+Data visualization,
 
 The analysis focused on identifying relationships between game features and overall sales performance.
 
